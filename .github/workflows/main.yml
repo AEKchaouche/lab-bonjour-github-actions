@@ -9,3 +9,4 @@ jobs:
       - uses: ./action-a
         with:
           MON_NOM: "Mona"
+
